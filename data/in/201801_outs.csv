@@ -1,0 +1,81 @@
+data,categoria,prop,descrizione,importo
+2018-01-01,macchina,all,,3
+2018-01-01,ristorante,all,,14
+2018-01-01,ristorante,all,,16
+2018-01-02,supermercato,all,spesa,5
+2018-01-03,macchina,all,,8
+2018-01-03,ristorante,all,,31
+2018-01-04,abbigliamento,dad,pantaloni,66.5
+2018-01-04,supermercato,tom,,26.7
+2018-01-04,abbigliamento,dad,pantaloni,62.3
+2018-01-05,parrucchiere / estetica,all,,11.95
+2018-01-05,macchina,all,,14.2
+2018-01-05,ristorante,all,,8.7
+2018-01-05,panetteria,all,,16.8
+2018-01-05,dolcetti,mom,,7
+2018-01-05,macchina,all,benzina,64.58
+2018-01-05,supermercato,all,,10.6
+2018-01-06,ristorante,all,,18
+2018-01-06,macchina,all,autostrada,30
+2018-01-06,panetteria,all,,25.3
+2018-01-07,supermercato,all,,96.3
+2018-01-07,supermercato,all,,15.6
+2018-01-09,panetteria,all,,2.5
+2018-01-09,fruttivendolo,all,,13.7
+2018-01-09,supermercato,all,formaggi,14.8
+2018-01-09,spese mediche,all,farmacia,21
+2018-01-10,fruttivendolo,all,,4.65
+2018-01-10,macellaio,all,,9.1
+2018-01-11,panetteria,all,,3.2
+2018-01-11,abbigliamento,mom,scarpe,99.9
+2018-01-11,supermercato,all,,11.7
+2018-01-11,svago,all,cluster,1113
+2018-01-12,parrucchiere / estetica,dad,capelli,18
+2018-01-12,ristorante,all,pizzeria michele,9.5
+2018-01-13,abbigliamento,tom,dolcevita,68
+2018-01-13,tintoria,dad,,10.5
+2018-01-14,supermercato,all,,145
+2018-01-15,supermercato,all,,58
+2018-01-15,panetteria,all,,5
+2018-01-16,macchina,mom,,4
+2018-01-16,abbigliamento,mom,,95
+2018-01-16,abbigliamento,mom,,139
+2018-01-16,panetteria,all,,7
+2018-01-16,panetteria,all,,7.9
+2018-01-18,bar,all,,2.2
+2018-01-18,abbigliamento,all,,315
+2018-01-18,bar,all,,5.2
+2018-01-18,abbigliamento,all,,48
+2018-01-18,supermercato,all,,37.5
+2018-01-19,abbigliamento,mom,,76.3
+2018-01-19,abbigliamento,all,,70.4
+2018-01-19,parrucchiere / estetica,all,,63
+2018-01-19,panetteria,all,,8
+2018-01-20,parrucchiere / estetica,all,,239
+2018-01-20,regali,all,luca,9
+2018-01-20,parrucchiere / estetica,mom,,77
+2018-01-20,abbigliamento,all,,35
+2018-01-22,supermercato,all,,44.5
+2018-01-21,ristorante,all,,10
+2018-01-21,supermercato,all,,32.4
+2018-01-23,abbigliamento,tom,,19.5
+2018-01-23,macchina,mom,,50
+2018-01-24,supermercato,all,,45
+2018-01-24,regali,all,torta nonno,33
+2018-01-24,abbigliamento,dad,,96
+2018-01-26,svago,all,mostra caravaggio,18
+2018-01-27,abbigliamento,dad,,120
+2018-01-27,abbigliamento,dad,,230
+2018-01-27,panetteria,all,,5.5
+2018-01-27,abbigliamento,dad,,59.5
+2018-01-28,dolcetti,bib,,16
+2018-01-28,supermercato,all,,25
+2018-01-29,spese mediche,mom,,50
+2018-01-30,abbigliamento,tom,,15
+2018-01-30,supermercato,all,,50
+2018-01-30,macchina,mom,,1.5
+2018-01-30,bar,mom,,2
+2018-01-31,supermercato,all,,130.85
+2018-01-31,tintoria,dad,,30
+2018-01-31,svago,tom,scout sett comunitaria,110
+2018-01-31,svago,chi,scout sett comunitaria,110
